@@ -1,0 +1,16 @@
+streamlit
+pandas
+plotly
+numpy
+yfinance
+python-dateutil
+tabulate
+tqdm
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+scipy
+python-dateutil
+pytz
+gunicorn

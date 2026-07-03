@@ -1,0 +1,10 @@
+{
+  "close_pred": 3000.75,
+  "high_pred": 3900.50,
+  "low_pred": 2800.75,
+  "tendencia": "bajista",
+  "confianza": 0.50,
+  "timestamp": "2024-01-15T10:30:00",
+  "modelo": "LSTM_v2",
+  "variacion_close": 5.2
+}
