@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "fecha_inicio_corte": "2023-01-01",
+    "fecha_predicha": "2023-04-01",
+    "pred_close": 1196.77307,
+    "pred_high": 2192.987111,
+    "pred_low": 548.39009,
+    "tendencia": "alcista"
+  },
+  {
+    "id": 1,
+    "fecha_inicio_corte": "2023-04-01",
+    "fecha_predicha": "2023-06-30",
+    "pred_close": 1822.024607,
+    "pred_high": 3349.791744,
+    "pred_low": 866.169157,
+    "tendencia": "alcista"
+  },
+  {
+    "id": 2,
+    "fecha_inicio_corte": "2023-06-30",
+    "fecha_predicha": "2023-09-28",
+    "pred_close": 1850.649833,
+    "pred_high": 3359.074937,
+    "pred_low": 854.3888,
+    "tendencia": "bajista"
+  },
+  {
+    "id": 3,
+    "fecha_inicio_corte": "2023-09-28",
+    "fecha_predicha": "2023-12-27",
+    "pred_close": 1597.180271,
+    "pred_high": 2902.044263,
+    "pred_low": 740.379793,
+    "tendencia": "bajista"
+  },
+  {
+    "id": 4,
+    "fecha_inicio_corte": "2023-12-27",
+    "fecha_predicha": "2024-03-26",
+    "pred_close": 2163.427961,
+    "pred_high": 4036.280369,
+    "pred_low": 1008.518176,
+    "tendencia": "bajista"
+  }
+]

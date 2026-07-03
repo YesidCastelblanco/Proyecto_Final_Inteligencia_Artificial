@@ -1,0 +1,15 @@
+{
+  "prediction_date": "2025-12-26",
+  "expected_price": 2775,
+  "range_70pct": [
+    2120,
+    3486
+  ],
+  "range_90pct": [
+    1827,
+    4049
+  ],
+  "model_used": "Modelo 1 (XGB+QR)",
+  "backtest_correlation": 0.0,
+  "generated_at": "2025-11-26T19:43:53.855037"
+}
